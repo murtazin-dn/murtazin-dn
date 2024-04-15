@@ -13,17 +13,22 @@
 <br/>  
 
 
+## Ачивки
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=murtazin-dn)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+## Языки
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murtazin-dn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+
 ## Статистика 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=murtazin-dn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
